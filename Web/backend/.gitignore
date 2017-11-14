@@ -1,0 +1,12 @@
+node_modules/
+false/
+.tscache/
+
+build/
+
+npm-debug.log
+
+*.js.map
+*.js
+
+.idea*
