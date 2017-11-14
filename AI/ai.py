@@ -10,7 +10,7 @@ class AI(object):
         self.__return_x = -1
         self.__return_y = -1
 
-    def play(self, game_map):
+    def play(self, game_map, input_obj):
         """You must complete this function and return
         a dictionnary following the format:
             {"action":"[(explore)(flag)(unflag)]", "X":0, "Y": 0}
@@ -24,10 +24,12 @@ class AI(object):
             self.__return_y += 1
 
         time.sleep(0.1)
-#        self.__return_x = int(input())
-#        self.__return_y = int(input())
 
+        return input_obj
+
+        """
         return {"action":"explore",
                 "X":self.__return_x,
                 "Y":self.__return_y
                }
+        """
