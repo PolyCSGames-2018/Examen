@@ -6,5 +6,5 @@ Vous vous êtes inscrit au cours INF1337 donné par le professeur Oretniuq et vo
 2. (2 points) Trouver le compte caché.
 3. (4 points) Trouver le mot de passe du service d’imprimerie.
 4. (1 point) Décoder le mot de passe secret qui permet d’accélerer l’impression.
-    - mot de passe encodé: Q1N7VGh4X0cwMGdsM180X3RoNHRfZmw0Z30=
+    - mot de passe encodé: Q1N7M25jMGQxbmdfMXNfMzR6eX0=
 5. (1 point) Découvrir le mot de passe caché sur le site.
